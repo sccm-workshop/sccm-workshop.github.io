@@ -13,16 +13,16 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: "ECEn 427"
-class_name: Embedded Linux Systems
-class_number: ECEn 427
-email: jgoeders@byu.edu
-description: >-
-  Class website for BYU's ECEn 625: Compilation Strategies for High-Performance Systems.
-baseurl: "/ecen427"
-url: "https://byu-cpe.github.io"
+title: "SCCM"
+# class_name: Embedded Linux Systems
+# class_number: ECEn 427
+# email: jgoeders@byu.edu
+# description: >-
+#   Class website for BYU's ECEn 625: Compilation Strategies for High-Performance Systems.
+baseurl: ""
+url: "https://sccm-workshop.github.io"
 github:
-  url: https://github.com/byu-cpe/ecen427
+  url: https://github.com/sccm-workshop/sccm-workshop.github.io
 
 permalink: pretty
 
@@ -33,6 +33,11 @@ collections:
     output: true
     permalink: /:collection/:name/
     sort_by: number
+  archive:
+    output: true
+    permalink: /:collection/:name/
+    sort_by: year
+
   documentation:
     output: true
     permalink: /:collection/:name/
