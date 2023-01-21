@@ -2,7 +2,7 @@
 layout: default
 sidebar: true
 icon: fa-solid fa-circle-info
-title: About
+title: Home
 ---
 
 # SCCM 2023
