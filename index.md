@@ -23,9 +23,9 @@ This workshop is an opportunity to publicize our field at a top-tier conference.
 
 ## Organizers
 * [Dustin Richmond](https://www.dustinrichmond.com/) (UW)
-* [Jeff Goeders](https://ece.byu.edu/directory/jeff-goeders) (BYU)
 * [Ryan Kastner](https://kastner.ucsd.edu/) (UCSD)
 * [Mirjana Stojilović](https://mirjanastojilovic.github.io/) (EPFL)
+* [Jeff Goeders](https://ece.byu.edu/directory/jeff-goeders) (BYU)
 
 ## Confirmed Speakers
 
