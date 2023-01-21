@@ -1,0 +1,59 @@
+
+- author: Aydin Aysu (NCSU)
+  title: Securing Edge AI Devices Against Side-Channel Attacks with Hardware Masking
+  youtube: oeSduTQm81c
+  public: false
+
+- author: Christophe Bobda (Florida)
+  title: System-Level Design of Secured Systems-on-Chips
+  youtube: SN9yloLq17k
+
+- author: Colin Drewes (UCSD)
+  title: "At-tenant-uator: Isolating Power Side-Channels in Shared-FPGAs"
+  youtube: 64KRbkPAjjQ
+
+- author: Debayan Das (Intel)
+  title: Advanced EM & ML Techniques Toward Secure and Trusted Microelectronics
+  youtube: D2inAgmkzoQ
+
+- author: Dina Mahmoud (EPFL)
+  youtube: 67UZ0pUa4lw
+  title: Remote FPGA-Based Undervolting Attacks
+
+- author: Hayden Cook (BYU)
+  title: Short Circuit Induced Aging on FPGAs
+  youtube: 8u__ipo_kl0
+  public: true
+
+- author: Ilias Giechaskiel (Independent Researcher)
+  youtube: oUYuU7wV8HU
+  title: Cross-VM Information Leaks in FPGA-Accelerated Cloud Environments
+
+- author: Jakub Szefer (Yale)
+  title: Security of HLS-based AI Accelerators in Cloud FPGAs
+  youtube: KPrbuHBTRmE
+
+- author: Jason Oberg (Tortuga Logic)
+  title: Ensuring Information Flow Isolation in High Performance Computer Systems
+  youtube: 0N_048k-3JA
+  public: false
+  
+- author: Christopher Clark (GTRI)
+  title: Full-Lifecycle Assurance of FPGA Applications
+  youtube: jKsgO5iFx3c
+
+- author: Matt French (USC ISI)
+  title: "Flipping the Script: FPGAs Protecting ASICs"
+  youtube: Vh2mY6uixB8
+
+- author: Nele Mentens (KU Leuven)
+  title: Cryptographic Agility in Future-Proof Coprocessors
+  youtube: q1ypQVquPP0
+
+- author: Russ Tessier (UMass Amherst)
+  youtube: yqh1lhrSCpU
+  title: Power Side Channel Attacks in Remote FPGAs
+
+- author: Xiaolin Xu (Northeastern)
+  youtube: byyvKLXTHGo
+  title: On The Dark Side of FPGA as Machine Learning Accelerator
