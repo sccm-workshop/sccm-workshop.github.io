@@ -17,6 +17,10 @@ This workshop is an opportunity to publicize our field at a top-tier conference.
 **Sunday, Feb 12, 2023.  8:30am - 12:30pm.**  
 [Workshop Schedule]({% link agenda.md %}).
 
+## Registration
+ * In-person: [Register](https://www.isfpga.org/registration/) as part of FPGA 2023.
+ * Virtual: TBD
+
 ## Organizers
 * [Dustin Richmond](https://www.dustinrichmond.com/) (UW)
 * [Jeff Goeders](https://ece.byu.edu/directory/jeff-goeders) (BYU)
