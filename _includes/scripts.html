@@ -17,20 +17,20 @@
         $("#wrapper").toggleClass("toggled");
     });
 
-    var prevVisible = $('#page-title').visible();
+    // var prevVisible = $('#page-title').visible();
 
-    $(window).scroll(function () {
-        currentVisible = $('#page-title').visible()
-        if (prevVisible && !currentVisible) {
-            console.log("Do something!");
-            $("#page-title-bar").html($('#page-title').text());
-        }
+    // $(window).scroll(function () {
+    //     currentVisible = $('#page-title').visible()
+    //     if (prevVisible && !currentVisible) {
+    //         console.log("Do something!");
+    //         $("#page-title-bar").html($('#page-title').text());
+    //     }
 
-        if (!prevVisible && currentVisible) {
-            $("#page-title-bar").html("")
-        }
+    //     if (!prevVisible && currentVisible) {
+    //         $("#page-title-bar").html("")
+    //     }
 
-        prevVisible = currentVisible;
-    });
+    //     prevVisible = currentVisible;
+    // });
 
 </script>
