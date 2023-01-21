@@ -1,24 +1,28 @@
 ---
-layout: page
-toc: false
-title: 
+layout: default
+sidebar: true
+icon: fa-solid fa-circle-info
+title: About
 ---
 
-# {{ site.class_number }}: {{ site.class_name}}
+# SCCM 2023
 
-<p float="left">
-<img src="{% link media/full_stack.png %}" width="300">
-<img src="{% link media/pynq.jpg %}" width="500">
-</p>
+The 3rd Workshop on Security for Custom Computing Machines will be held workshop in conjunction with [FPGA 2023](https://www.isfpga.org/). 
 
-This course covers the "full stack" of embedded systems, including developing software applications, user space and kernel drivers, and custom digital hardware.  All of these pieces are integrated together in a semester-long project to implement the original Space Invaders game.
+Hardware security is an important design consideration. Recent events have raised awareness of security in general-purpose processors. As experts we must consider: What are the equivalents for reconfigurable architectures and custom computing machines? How do we defend against threats that exist today? How do we design our systems to defend against future threats? This is increasingly important as we deploy customized hardware at unprecedented scales.
 
-<!-- This course has been updated to focus on Linux-based embedded systems and focuses on general programming in a Linux environment, with a focus on device drivers and hardware development.  -->
+This workshop is an opportunity to publicize our field at a top-tier conference. Our goal is to increase the awareness of ongoing research in this area, develop new collaborations, and share research progress.
 
-The class is hands-on; learning is primarily accomplished by completing a series of lab assignments and reading/studying online documentation.
+## Date & Time
+**Sunday, Feb 12, 2023.  8:30am - 12:30pm.**  
+[Workshop Schedule]({% link agenda.md %}).
 
-It is worth noting that modern Linux-based device-driver development is a bit of an art form and that there seems to be no current comprehensive textbooks or online documentation that describes how to develop device drivers for modern Linux kernels. As such, this class attempts to bring together a lot of information to enable students to learn how to develop and to debug Linux kernel device drivers.
+## Organizers
+* [Dustin Richmond](https://www.dustinrichmond.com/) (UW)
+* [Jeff Goeders](https://ece.byu.edu/directory/jeff-goeders) (BYU)
+* [Ryan Kastner](https://kastner.ucsd.edu/) (UCSD)
+* [Mirjana Stojilović](https://mirjanastojilovic.github.io/) (EPFL)
 
-We will be using the Xilinx PYNQ board for this class. Though the board is typically outfitted with a Python-based productivity environment, we won't be using that for this class. The boards that we are using will be setup to use Ubuntu so that you can develop directly on these systems.
+## Confirmed Speakers
 
-*Important Note: This class relies on your ability to teach yourself and to find things out as you go. In most cases, the lab descriptions will provide only the background information that is difficult to find on the internet. Also, we will go over difficult concepts in class. However, in order to complete the lab exercises, you will need to be resourceful. You will need to carefully study the provided documentation and to find answers to your questions on your own by searching web-sites such as stack-overflow, etc. The TAs will try to help you when you are completely stuck but they generally won't answer questions that you should be able to answer for yourself. Also, try not to rely too much on other students. Try to become self-reliant. Ultimately, self-reliant engineers get paid more and have better job security.*
+TBD

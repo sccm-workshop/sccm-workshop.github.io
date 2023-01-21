@@ -9,16 +9,13 @@
 
 h1 {
     padding-top: 20px;
+    font-size: 1.8rem;
 }
 
 h2 {
-    margin-top: 30px;
-}
-
-h3 {
     text-transform: uppercase;
     color: gray;
-    font-size: 1.3rem;
+    font-size: 1.4rem;
     margin-top: 25px;
 }
 
@@ -60,7 +57,10 @@ ul li {
 }
 
 .page-title-bar {
-    font-family: muli, sans-serif;
+    font-family: muli, roboto;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 1.8rem
 }
 
 .lab-toc {

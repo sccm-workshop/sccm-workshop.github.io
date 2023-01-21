@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: "SCCM"
+title: "Workshop on Security for Custom Computing Machines (SCCM)"
 # class_name: Embedded Linux Systems
 # class_number: ECEn 427
 # email: jgoeders@byu.edu
@@ -46,13 +46,13 @@ collections:
     output: true
     permalink: /:collection/:name/
     sort_by: number
-  pages:
-    output: true
-    permalink: /:name/
-    order:
-      - overview.md
-      - goals.md
-      - lab_setup.md
+  # pages:
+  #   output: true
+  #   permalink: /:name/
+  #   order:
+  #     - overview.md
+  #     - goals.md
+  #     - lab_setup.md
 
 exclude:
   - icon.ai
