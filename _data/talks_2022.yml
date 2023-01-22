@@ -29,6 +29,7 @@
 - author: Ilias Giechaskiel (Independent Researcher)
   youtube: oUYuU7wV8HU
   title: Cross-VM Information Leaks in FPGA-Accelerated Cloud Environments
+  public: true
 
 - author: Jakub Szefer (Yale)
   title: Security of HLS-based AI Accelerators in Cloud FPGAs
