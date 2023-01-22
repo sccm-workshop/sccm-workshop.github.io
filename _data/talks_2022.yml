@@ -11,6 +11,7 @@
 - author: Colin Drewes (UCSD)
   title: "At-tenant-uator: Isolating Power Side-Channels in Shared-FPGAs"
   youtube: 64KRbkPAjjQ
+  public: true
 
 - author: Debayan Das (Intel)
   title: Advanced EM & ML Techniques Toward Secure and Trusted Microelectronics
