@@ -36,6 +36,7 @@
 - author: Jakub Szefer (Yale)
   title: Security of HLS-based AI Accelerators in Cloud FPGAs
   youtube: KPrbuHBTRmE
+  public: true
 
 - author: Jason Oberg (Tortuga Logic)
   title: Ensuring Information Flow Isolation in High Performance Computer Systems
