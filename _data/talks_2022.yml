@@ -39,7 +39,7 @@
 - author: Jason Oberg (Tortuga Logic)
   title: Ensuring Information Flow Isolation in High Performance Computer Systems
   youtube: 0N_048k-3JA
-  public: false
+  public: true
   
 - author: Christopher Clark (GTRI)
   title: Full-Lifecycle Assurance of FPGA Applications
