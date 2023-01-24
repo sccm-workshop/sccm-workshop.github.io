@@ -47,6 +47,7 @@
 - author: Christopher Clark (GTRI)
   title: Full-Lifecycle Assurance of FPGA Applications
   youtube: jKsgO5iFx3c
+  public: true
 
 - author: Matt French (USC ISI)
   title: "Flipping the Script: FPGAs Protecting ASICs"
