@@ -7,6 +7,7 @@
 - author: Christophe Bobda (Florida)
   title: System-Level Design of Secured Systems-on-Chips
   youtube: SN9yloLq17k
+  public: true
 
 - author: Colin Drewes (UCSD)
   title: "At-tenant-uator: Isolating Power Side-Channels in Shared-FPGAs"
