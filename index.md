@@ -15,7 +15,7 @@ This workshop is an opportunity to publicize our field at a top-tier conference.
 
 ## Date & Time
 **Sunday, Feb 12, 2023.  8:30am - 12:30pm.**  
-[Workshop Schedule]({% link agenda.md %}).
+<!-- [Workshop Schedule]({% link agenda.md %}). -->
 
 ## Registration
  * In-person: [Register](https://www.isfpga.org/registration/) as part of FPGA 2023.
@@ -29,4 +29,12 @@ This workshop is an opportunity to publicize our field at a top-tier conference.
 
 ## Confirmed Speakers
 
-TBD
+* [Ali Keshavarzi](https://profiles.stanford.edu/ali-keshavarzi) (Stanford)
+* [Caroline Trippel](https://cs.stanford.edu/people/trippel/) (Stanford)
+* [Fatemeh Ganji](https://www.wpi.edu/people/faculty/fganji) (WPI)
+* [Shahin Tajik](https://www.wpi.edu/people/faculty/stajik) (WPI)
+* Hayden Cook (BYU)
+* [Colin Drewes](https://colindrewes.com/) (Stanford)
+* [Ognjen Glamočanin](https://ogacns94.github.io/) (EPFL)
+* Tyler Sheaves (UC Davis)
+* [Shanquan Tian](https://caslab.csl.yale.edu/~shanquan/) (Yale)
