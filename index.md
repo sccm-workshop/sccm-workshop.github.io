@@ -34,7 +34,7 @@ This workshop is an opportunity to publicize our field at a top-tier conference.
 * [Caroline Trippel](https://cs.stanford.edu/people/trippel/) (Stanford)
 * [Fatemeh Ganji](https://www.wpi.edu/people/faculty/fganji) (WPI), _Side-Channel Protected NNs Through Secure and Private Function Evaluation_
 * [Shahin Tajik](https://www.wpi.edu/people/faculty/stajik) (WPI), _On-Chip Impedance Sensing for System-Level Tamper Detection_
-* [Domenic Forte](https://www.ece.ufl.edu/people/faculty/domenic-forte/) (UF)
+* [Domenic Forte](https://www.ece.ufl.edu/people/faculty/domenic-forte/) (UF), _Revisiting RAM-Jam in the Face of Fault-Tolerant FSM Design and Layout_
 * Hayden Cook (BYU)
 * [Colin Drewes](https://colindrewes.com/) (Stanford)
 * [Ognjen Glamočanin](https://ogacns94.github.io/) (EPFL), _Temperature Impact on Remote Power Side-Channel Attacks on Shared FPGAs_
