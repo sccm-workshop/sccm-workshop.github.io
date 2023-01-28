@@ -22,9 +22,9 @@ This workshop is an opportunity to publicize our field at a top-tier conference.
  * Virtual: Fill in the [2023 SCCM Registration form](https://forms.gle/Lp47Go8TtE18KVTW7) to receive the Zoom link by e-mail.
 
 ## Organizers
+* [Jeff Goeders](https://ece.byu.edu/directory/jeff-goeders) (BYU)
 * [Ryan Kastner](https://kastner.ucsd.edu/ryan/) (UCSD)
 * [Dustin Richmond](https://www.dustinrichmond.com/) (UCSC)
-* [Jeff Goeders](https://ece.byu.edu/directory/jeff-goeders) (BYU)
 * [Mirjana Stojilović](https://mirjanastojilovic.github.io/) (EPFL)
 
 
