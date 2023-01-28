@@ -18,25 +18,26 @@ This workshop is an opportunity to publicize our field at a top-tier conference.
 <!-- [Workshop Schedule]({% link agenda.md %}). -->
 
 ## Registration
- * In-person: [Register](https://www.isfpga.org/registration/) as part of FPGA 2023.
- * Virtual: TBD
+ * In-person: [Register](https://www.isfpga.org/registration/) as part of FPGA 2023 and fill in the [2023 SCCM Registration form](https://forms.gle/Lp47Go8TtE18KVTW7).
+ * Virtual: Fill in the [2023 SCCM Registration form](https://forms.gle/Lp47Go8TtE18KVTW7) to receive the Zoom link by e-mail.
 
 ## Organizers
-* [Dustin Richmond](https://www.dustinrichmond.com/) (UW)
-* [Ryan Kastner](https://kastner.ucsd.edu/) (UCSD)
-* [Mirjana Stojilović](https://mirjanastojilovic.github.io/) (EPFL)
+* [Ryan Kastner](https://kastner.ucsd.edu/ryan/) (UCSD)
+* [Dustin Richmond](https://www.dustinrichmond.com/) (UCSC)
 * [Jeff Goeders](https://ece.byu.edu/directory/jeff-goeders) (BYU)
+* [Mirjana Stojilović](https://mirjanastojilovic.github.io/) (EPFL)
+
 
 ## Confirmed Speakers
 
-* [Ali Keshavarzi](https://profiles.stanford.edu/ali-keshavarzi) (Stanford)
+* [Ali Keshavarzi](https://profiles.stanford.edu/ali-keshavarzi) (Stanford), 
 * [Caroline Trippel](https://cs.stanford.edu/people/trippel/) (Stanford)
-* [Fatemeh Ganji](https://www.wpi.edu/people/faculty/fganji) (WPI)
-* [Shahin Tajik](https://www.wpi.edu/people/faculty/stajik) (WPI)
+* [Fatemeh Ganji](https://www.wpi.edu/people/faculty/fganji) (WPI), _Side-Channel Protected NNs Through Secure and Private Function Evaluation_
+* [Shahin Tajik](https://www.wpi.edu/people/faculty/stajik) (WPI), _On-Chip Impedance Sensing for System-Level Tamper Detection_
 * [Domenic Forte](https://www.ece.ufl.edu/people/faculty/domenic-forte/) (UF)
 * Hayden Cook (BYU)
 * [Colin Drewes](https://colindrewes.com/) (Stanford)
-* [Ognjen Glamočanin](https://ogacns94.github.io/) (EPFL)
+* [Ognjen Glamočanin](https://ogacns94.github.io/) (EPFL), _Temperature Impact on Remote Power Side-Channel Attacks on Shared FPGAs_
 * Tyler Sheaves (UC Davis)
 * [Shanquan Tian](https://caslab.csl.yale.edu/~shanquan/) (Yale)
-* [Sujan Saha Kuman](https://smartsystems.ece.ufl.edu/people/sujan-kumar-saha/) (UF)
+* [Sujan Saha Kuman](https://smartsystems.ece.ufl.edu/people/sujan-kumar-saha/) (UF), _A Hardware/Software Framework for System-on-FPGA Security_
