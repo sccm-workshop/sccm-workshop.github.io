@@ -7,7 +7,7 @@ title: Home
 
 # SCCM 2023
 
-The 3rd Workshop on Security for Custom Computing Machines will be held workshop in conjunction with [FPGA 2023](https://www.isfpga.org/). 
+The 3rd Workshop on Security for Custom Computing Machines (SCCM) will be held in conjunction with [FPGA 2023](https://www.isfpga.org/). 
 
 Hardware security is an important design consideration. Recent events have raised awareness of security in general-purpose processors. As experts we must consider: What are the equivalents for reconfigurable architectures and custom computing machines? How do we defend against threats that exist today? How do we design our systems to defend against future threats? This is increasingly important as we deploy customized hardware at unprecedented scales.
 
