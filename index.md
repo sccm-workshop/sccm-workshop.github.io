@@ -30,8 +30,8 @@ This workshop is an opportunity to publicize our field at a top-tier conference.
 
 ## Confirmed Speakers
 
-* [Ali Keshavarzi](https://profiles.stanford.edu/ali-keshavarzi) (Stanford), 
-* [Caroline Trippel](https://cs.stanford.edu/people/trippel/) (Stanford)
+* [Ali Keshavarzi](https://profiles.stanford.edu/ali-keshavarzi) (Stanford)
+* [Caroline Trippel](https://cs.stanford.edu/people/trippel/) (Stanford), _Scalable Assurance via Verifiable Hardware-Software Contracts_
 * [Fatemeh Ganji](https://www.wpi.edu/people/faculty/fganji) (WPI), _Side-Channel Protected NNs Through Secure and Private Function Evaluation_
 * [Shahin Tajik](https://www.wpi.edu/people/faculty/stajik) (WPI), _On-Chip Impedance Sensing for System-Level Tamper Detection_
 * [Domenic Forte](https://www.ece.ufl.edu/people/faculty/domenic-forte/) (UF), _Revisiting RAM-Jam in the Face of Fault-Tolerant FSM Design and Layout_
@@ -39,5 +39,5 @@ This workshop is an opportunity to publicize our field at a top-tier conference.
 * [Colin Drewes](https://colindrewes.com/) (Stanford)
 * [Ognjen Glamočanin](https://ogacns94.github.io/) (EPFL), _Temperature Impact on Remote Power Side-Channel Attacks on Shared FPGAs_
 * Tyler Sheaves (UC Davis)
-* [Shanquan Tian](https://caslab.csl.yale.edu/~shanquan/) (Yale)
+* [Shanquan Tian](https://caslab.csl.yale.edu/~shanquan/) (Yale), _Remote Power Attacks against Machine Learning Accelerators in Cloud FPGAs_
 * [Sujan Saha Kuman](https://smartsystems.ece.ufl.edu/people/sujan-kumar-saha/) (UF), _A Hardware/Software Framework for System-on-FPGA Security_
