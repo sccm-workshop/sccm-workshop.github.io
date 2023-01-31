@@ -30,7 +30,7 @@ This workshop is an opportunity to publicize our field at a top-tier conference.
 
 ## Confirmed Speakers
 
-* [Chandni Bhowmik] (Intel) _Getting Logical Security Right for Modern FPGAs – A Battle with Complexity_
+* Chandni Bhowmik (Intel) _Getting Logical Security Right for Modern FPGAs – A Battle with Complexity_
 * [Caroline Trippel](https://cs.stanford.edu/people/trippel/) (Stanford), _Scalable Assurance via Verifiable Hardware-Software Contracts_
 * [Ali Keshavarzi](https://profiles.stanford.edu/ali-keshavarzi) (Stanford)
 * [Fatemeh Ganji](https://www.wpi.edu/people/faculty/fganji) (WPI), _Side-Channel Protected NNs Through Secure and Private Function Evaluation_
