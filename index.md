@@ -30,8 +30,9 @@ This workshop is an opportunity to publicize our field at a top-tier conference.
 
 ## Confirmed Speakers
 
-* [Ali Keshavarzi](https://profiles.stanford.edu/ali-keshavarzi) (Stanford)
+* [Chandni Bhowmik] (Intel) _Getting Logical Security Right for Modern FPGAs – A Battle with Complexity_
 * [Caroline Trippel](https://cs.stanford.edu/people/trippel/) (Stanford), _Scalable Assurance via Verifiable Hardware-Software Contracts_
+* [Ali Keshavarzi](https://profiles.stanford.edu/ali-keshavarzi) (Stanford)
 * [Fatemeh Ganji](https://www.wpi.edu/people/faculty/fganji) (WPI), _Side-Channel Protected NNs Through Secure and Private Function Evaluation_
 * [Shahin Tajik](https://www.wpi.edu/people/faculty/stajik) (WPI), _On-Chip Impedance Sensing for System-Level Tamper Detection_
 * [Domenic Forte](https://www.ece.ufl.edu/people/faculty/domenic-forte/) (UF), _Revisiting RAM-Jam in the Face of Fault-Tolerant FSM Design and Layout_
