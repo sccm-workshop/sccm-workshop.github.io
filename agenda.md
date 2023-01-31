@@ -11,27 +11,27 @@ The workshop will be organized as two 1.5-hour sessions. Each session will have 
 
 ## Session A
 
-| Time (PST) || Presenter
+| Time (PST) |Title | **Presenter** and Authors
 | 8:30am | "Secure Networking" | Coffee and Tea
-| 9:00 |    Opening Notes  | 
-| 9:05 | Mini-Keynote |
-| 9:25 | Presentation 1 |
-| 9:35 | Presentation 2 |
-| 9:45 | Presentation 3 |
-| 9:55 | Presentation 4 |
-| 10:05 | Presentation 5 |
+| 9:00 |    Opening Notes  | Workshop Organizers
+| 9:05 | Getting Logical Security Right for Modern FPGAs – A Battle with Complexity | **Chandni Bhowmik** and Sayak Ray
+| 9:25 | Temperature Impact on Remote Power Side-Channel Attacks on Shared FPGAs | **Ognjen Glamočanin** and Mirjana Stojilović 
+| 9:35 |  TBD | **Hayden Cook** and Geoff Goeders
+| 9:45 | Remote Power Attacks against Machine Learning Accelerators in Cloud FPGAs | **Shanquan Tian** and Jakub Szefer
+| 9:55 | A Hardware/Software Framework for System-on-FPGA Security | **Sujan Saha Kuman**, Kawser Ahmed, and Christophe Bobda
+| 10:05 | On-Chip Impedance Sensing for System-Level Tamper Detection |  **Shahin Tajik**
 | 10:15 | Discussion Session |
 | 10:30 | Break |
 
 ## Session B
 
-| Time (PST) || Presenter
+| Time (PST) || **Presenter** and Authors
 | 11:00 |    Opening Notes  | 
-| 11:05 | Mini-Keynote |
-| 11:25 | Presentation 1 |
-| 11:35 | Presentation 2 |
-| 11:45 | Presentation 3 |
-| 11:55 | Presentation 4 |
-| 12:05 | Presentation 5 |
+| 11:05 | TBD | Ali Keshavarzi
+| 11:25 | TBD | **Colin Drewes**, Olivia Weng, David Kohlbrenner, Ryan Kastner, and Dustin Richmond
+| 11:35 | Revisiting RAM-Jam in the Face of Fault-Tolerant FSM Design and Layout | **Domenic Forte**, Mahbub Alam, Muhtadi Choudhury, Fatemeh Ganji, and Shahin Tajik
+| 11:45 | TBD | Tyler Sheaves
+| 11:55 | TBD | Fatemeh Ganji, Domenic Forte, Mohammad Hashemi and Steffi Roy
+| 12:05 | Scalable Assurance via Verifiable Hardware-Software Contracts | **Caroline Trippel**
 | 12:15 | Discussion Session |
 | 12:30 | End of Workshop / Lunch |
