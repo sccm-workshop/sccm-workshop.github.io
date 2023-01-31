@@ -5,7 +5,7 @@ icon: fa-solid fa-circle-info
 title: Home
 ---
 
-![](_images/sccm-background.jpg)
+![](sccm-background.jpg)
 # SCCM 2023
 
 The 3rd Workshop on Security for Custom Computing Machines (SCCM) will be held in conjunction with [FPGA 2023](https://www.isfpga.org/). 
