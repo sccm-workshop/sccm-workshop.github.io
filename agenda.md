@@ -27,11 +27,11 @@ The workshop will be organized as two 1.5-hour sessions. Each session will have 
 
 | Time (PST) || **Presenter** and Authors
 | 11:00 |    Opening Notes  | 
-| 11:05 | TBD | Ali Keshavarzi
-| 11:25 | TBD | **Colin Drewes**, Olivia Weng, David Kohlbrenner, Ryan Kastner, and Dustin Richmond
-| 11:35 | Revisiting RAM-Jam in the Face of Fault-Tolerant FSM Design and Layout | **Domenic Forte**, Mahbub Alam, Muhtadi Choudhury, Fatemeh Ganji, and Shahin Tajik
-| 11:45 | TBD | Tyler Sheaves
-| 11:55 | TBD | Fatemeh Ganji, Domenic Forte, Mohammad Hashemi and Steffi Roy
-| 12:05 | Scalable Assurance via Verifiable Hardware-Software Contracts | **Caroline Trippel**
+| 11:05 | Scalable Assurance via Verifiable Hardware-Software Contracts | **Caroline Trippel**
+| 11:25 | TBD | **Ali Keshavarzi**
+| 11:35 | TBD | **Colin Drewes**, Olivia Weng, David Kohlbrenner, Ryan Kastner, and Dustin Richmond
+| 11:45 | Revisiting RAM-Jam in the Face of Fault-Tolerant FSM Design and Layout | **Domenic Forte**, Mahbub Alam, Muhtadi Choudhury, Fatemeh Ganji, and Shahin Tajik
+| 11:55 | TBD | Tyler Sheaves
+| 12:05 | TBD | Fatemeh Ganji, Domenic Forte, Mohammad Hashemi and Steffi Roy
 | 12:15 | Discussion Session |
 | 12:30 | End of Workshop / Lunch |
