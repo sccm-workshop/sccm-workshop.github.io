@@ -7,6 +7,8 @@ title: Home
 
 # SCCM 2023
 
+![](_images/sccm-background.jpg)
+
 The 3rd Workshop on Security for Custom Computing Machines (SCCM) will be held in conjunction with [FPGA 2023](https://www.isfpga.org/). 
 
 Hardware security is an important design consideration. Recent events have raised awareness of security in general-purpose processors. As experts we must consider: What are the equivalents for reconfigurable architectures and custom computing machines? How do we defend against threats that exist today? How do we design our systems to defend against future threats? This is increasingly important as we deploy customized hardware at unprecedented scales.
@@ -22,9 +24,9 @@ This workshop is an opportunity to publicize our field at a top-tier conference.
  * Virtual: Fill in the [2023 SCCM Registration form](https://forms.gle/Lp47Go8TtE18KVTW7) to receive the Zoom link by e-mail.
 
 ## Organizers
-* [Jeff Goeders](https://ece.byu.edu/directory/jeff-goeders) (BYU)
-* [Ryan Kastner](https://kastner.ucsd.edu/ryan/) (UCSD)
 * [Dustin Richmond](https://www.dustinrichmond.com/) (UCSC)
+* [Ryan Kastner](https://kastner.ucsd.edu/ryan/) (UCSD)
+* [Jeff Goeders](https://ece.byu.edu/directory/jeff-goeders) (BYU)
 * [Mirjana Stojilović](https://mirjanastojilovic.github.io/) (EPFL)
 
 

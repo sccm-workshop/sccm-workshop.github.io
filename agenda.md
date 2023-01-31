@@ -29,7 +29,7 @@ The workshop will be organized as two 1.5-hour sessions. Each session will have 
 | 11:00 |    Introduction  | Workshop Organizers
 | 11:05 | **Scalable Assurance via Verifiable Hardware-Software Contracts** | **Caroline Trippel**
 | 11:25 | TBD | **Ali Keshavarzi**
-| 11:35 | TBD | **Fatemeh Ganji**, Domenic Forte, Mohammad Hashemi and Steffi Roy
+| 11:35 | Side-Channel Protected NNs Through Secure and Private Function Evaluation | **Fatemeh Ganji**, Domenic Forte, Mohammad Hashemi and Steffi Roy
 | 11:45 | On-Chip Impedance Sensing for System-Level Tamper Detection |  **Shahin Tajik**
 | 11:55 | TBD | Tyler Sheaves
 | 12:05 | Revisiting RAM-Jam in the Face of Fault-Tolerant FSM Design and Layout | **Domenic Forte**, Mahbub Alam, Muhtadi Choudhury, Fatemeh Ganji, and Shahin Tajik
