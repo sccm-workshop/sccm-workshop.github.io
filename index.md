@@ -40,6 +40,5 @@ This workshop is an opportunity to publicize our field at a top-tier conference.
 * Hayden Cook (BYU)
 * [Colin Drewes](https://colindrewes.com/) (Stanford)
 * [Ognjen Glamočanin](https://ogacns94.github.io/) (EPFL), _Temperature Impact on Remote Power Side-Channel Attacks on Shared FPGAs_
-* Tyler Sheaves (UC Davis)
 * [Shanquan Tian](https://caslab.csl.yale.edu/~shanquan/) (Yale), _Remote Power Attacks against Machine Learning Accelerators in Cloud FPGAs_
 * [Sujan Saha Kuman](https://smartsystems.ece.ufl.edu/people/sujan-kumar-saha/) (UF), _A Hardware/Software Framework for System-on-FPGA Security_
