@@ -12,7 +12,6 @@ The workshop will be organized as two 1.5-hour sessions. Each session will have 
 ## Session A
 
 | Time (PST) |Title | **Presenter** and Authors
-| 8:30 | "Secure Networking" | Coffee and Tea
 | 9:00 |    Opening Notes  | Workshop Organizers
 | 9:05 | **Getting Logical Security Right for Modern FPGAs – A Battle with Complexity** | **Chandni Bhowmik** and Sayak Ray
 | 9:25 | On-Chip Impedance Sensing for System-Level Tamper Detection |  **Shahin Tajik**
@@ -21,7 +20,7 @@ The workshop will be organized as two 1.5-hour sessions. Each session will have 
 | 9:55 | TBD | **Colin Drewes**, Olivia Weng, David Kohlbrenner, Ryan Kastner, and Dustin Richmond
 | 10:05 | A Hardware/Software Framework for System-on-FPGA Security | **Sujan Saha Kuman**, Kawser Ahmed, and Christophe Bobda
 | 10:15 | Discussion Session | Workshop Organizers
-| 10:30 | Break |
+| 10:30 | Break | Coffee and Tea
 
 ## Session B
 
