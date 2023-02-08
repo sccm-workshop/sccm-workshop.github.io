@@ -18,7 +18,7 @@ The workshop will be organized as two 1.5-hour sessions. Each session will have 
 | 9:25 | On-Chip Impedance Sensing for System-Level Tamper Detection |  **Shahin Tajik**
 | 9:35 | Remote Power Attacks against Machine Learning Accelerators in Cloud FPGAs | **Shanquan Tian**, Shayan Moini, Daniel Holcomb, Russell Tessier, and Jakub Szefer
 | 9:45 | Temperature Impact on Remote Power Side-Channel Attacks on Shared FPGAs | **Ognjen Glamočanin**, Hajira Bazaz, Mathias Payer, and Mirjana Stojilović
-| 9:55 | TBD | **Colin Drewes**, Olivia Weng, David Kohlbrenner, Ryan Kastner, and Dustin Richmond
+| 9:55 | TBD, with TDCs? | **Colin Drewes**, Olivia Weng, David Kohlbrenner, Ryan Kastner, and Dustin Richmond
 | 10:05 | A Hardware/Software Framework for System-on-FPGA Security | **Sujan Saha Kuman**, Kawser Ahmed, and Christophe Bobda
 | 10:15 | Discussion Session | Workshop Organizers
 | 10:30 | Break |
