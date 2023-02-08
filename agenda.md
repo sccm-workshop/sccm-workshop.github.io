@@ -28,7 +28,7 @@ The workshop will be organized as two 1.5-hour sessions. Each session will have 
 | Time (PST) || **Presenter** and Authors
 | 11:00 |    Introduction  | Workshop Organizers
 | 11:05 | **Scalable Assurance via Verifiable Hardware-Software Contracts** | **Caroline Trippel**
-| 11:25 | TBD | **Ali Keshavarzi**
+| 11:25 | Atoms and Bits of Edge Intelligence | **Ali Keshavarzi**
 | 11:35 | Side-Channel Protected NNs Through Secure and Private Function Evaluation | **Fatemeh Ganji**, Domenic Forte, Mohammad Hashemi and Steffi Roy
 | 11:45 |  Cloning the Unclonable: Physically Cloning an FPGA RO PUF | **Hayden Cook**, Jonathan Thompson, Zephram Tripp, Brad Hutchings and Jeff Goeders
 | 11:55 | Revisiting RAM-Jam in the Face of Fault-Tolerant FSM Design and Layout | **Domenic Forte**, Mahbub Alam, Muhtadi Choudhury, Fatemeh Ganji, and Shahin Tajik
