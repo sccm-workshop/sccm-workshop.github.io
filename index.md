@@ -15,7 +15,10 @@ Hardware security is an important design consideration. Recent events have raise
 This workshop is an opportunity to publicize our field at a top-tier conference. Our goal is to increase the awareness of ongoing research in this area, develop new collaborations, and share research progress.
 
 ## Date & Time
-**Sunday, Feb 12, 2023.  8:30am - 12:30pm PST.**  
+**Sunday, Feb 12, 2023.  9:00am - 12:30pm PST.**  
+
+## Location
+**Monterey Marriott, room San Carlos III.**
 <!-- [Workshop Schedule]({% link agenda.md %}). -->
 
 ## Registration
