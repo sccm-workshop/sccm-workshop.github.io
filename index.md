@@ -41,7 +41,7 @@ This workshop is an opportunity to publicize our field at a top-tier conference.
 * [Shahin Tajik](https://www.wpi.edu/people/faculty/stajik) (WPI), _On-Chip Impedance Sensing for System-Level Tamper Detection_
 * [Domenic Forte](https://www.ece.ufl.edu/people/faculty/domenic-forte/) (UF), _Revisiting RAM-Jam in the Face of Fault-Tolerant FSM Design and Layout_
 * Hayden Cook (BYU), _Cloning the Unclonable: Physically Cloning an FPGA RO PUF_
-* [Colin Drewes](https://colindrewes.com/) (Stanford), _TBD, with TDCs?_
+* [Colin Drewes](https://colindrewes.com/) (Stanford), _Pentimento: Data Residue in Digital Hardware_
 * [Ognjen Glamočanin](https://ogacns94.github.io/) (EPFL), _Temperature Impact on Remote Power Side-Channel Attacks on Shared FPGAs_
 * [Shanquan Tian](https://caslab.csl.yale.edu/~shanquan/) (Yale), _Remote Power Attacks against Machine Learning Accelerators in Cloud FPGAs_
 * [Sujan Saha Kuman](https://smartsystems.ece.ufl.edu/people/sujan-kumar-saha/) (UF), _A Hardware/Software Framework for System-on-FPGA Security_
