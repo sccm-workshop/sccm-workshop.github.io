@@ -1,0 +1,45 @@
+
+- author: Chandni Bhowmik (Intel)
+  title: Getting Logical Security Right for Modern FPGAs - A Battle with Complexity
+  youtube: psEQIElioRM
+  public: true
+
+- author: Shahin Tajik (Worcester Polytechnic Institute)
+  title: On-Chip Impedance Sensing for System-Level Tamper Detection
+  youtube: y0WRE3yt6QM
+  public: true
+
+- author: Shanquan Tian (Yale University)
+  title: Remote Power Attacks against Machine Learning Accelerators in Cloud FPGAs
+  youtube: Z1jOSo6dtlg
+  public: true
+
+- author: Ognjen Glamočanin (EPFL)
+  title: Temperature Impact on Remote Power Side-Channel Attacks on Shared FPGAs
+  youtube: Tce6UoZIJsU
+  public: true
+
+- author: Colin Drewes (UCSD)
+  title: "Pentimento: Data Residue in Digital Hardware"
+  youtube: Go84gkoLolQ
+  public: true
+
+- author: Sujan Saha Kuman (UF)
+  title: A Hardware/Software Framework for System-on-FPGA Security
+  youtube: MjiHLNfL3KM
+  public: true
+
+- author: Caroline Trippel
+  title: Scalable Assurance via Verifiable Hardware-Software Contracts
+
+- author: Ali Keshavarzi
+  title: Atoms and Bits of Edge Intelligence
+
+- author: Fatemeh Ganji
+  title: Side-Channel Protected NNs Through Secure and Private Function Evaluation
+
+- author: Hayden Cook (BYU)
+  title: "Cloning the Unclonable: Physically Cloning an FPGA RO PUF"
+
+- author: Domenic Forte
+  title: Revisiting RAM-Jam in the Face of Fault-Tolerant FSM Design and Layout

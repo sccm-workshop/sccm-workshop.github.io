@@ -1,46 +1,6 @@
 ---
-layout: page
+layout: talks
 title: SCCM 2022 Videos
 year: 2022.1
+file: talks_2022
 ---
-
-
-{% assign sorted_talks = site.data.talks_2022 | sort: "author" %}
-
-<div class="accordion" id="accordion">
-  {% for item in sorted_talks %}
-  <div class="card">
-    <div class="card-header" id="heading{{forloop.index}}">
-      <h5 class="mb-0">
-        <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapse{{forloop.index}}"
-          aria-expanded="false" aria-controls="collapse{{forloop.index}}">
-          {{ item.author }}: {{ item.title}}
-        </button>
-      </h5>
-    </div>
-    <div id="collapse{{forloop.index}}" class="collapse" aria-labelledby="heading{{forloop.index}}"
-      data-parent="#accordion">
-      <div class="card-body">
-        <div id="yt-player{{forloop.index}}">
-          {% if item.youtube and item.public %}
-          <iframe width="600" height="400" allowfullscreen="true"
-            src="https://youtube.com/embed/{{item.youtube}}?rel=0&enablejsapi=1">
-          </iframe>
-          {% else %}
-          Video not available
-          {% endif %}
-        </div>
-      </div>
-    </div>
-  </div>
-  {% endfor %}
-</div>
-
-{% for item in sorted_talks %}
-<script type="text/javascript">
-  $('#collapse{{forloop.index}}').on('hide.bs.collapse', function () {
-    console.log("Calling yt-player{{forloop.index}}, stopVideo")
-    callPlayer('yt-player{{forloop.index}}', 'stopVideo');
-  })
-</script>
-{% endfor %}
