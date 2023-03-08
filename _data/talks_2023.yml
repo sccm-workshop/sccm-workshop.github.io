@@ -31,15 +31,25 @@
 
 - author: Caroline Trippel
   title: Scalable Assurance via Verifiable Hardware-Software Contracts
+  youtube: jpKtL2OAwsQ
+  public: true
 
 - author: Ali Keshavarzi
   title: Atoms and Bits of Edge Intelligence
+  youtube: P9EcYyXk95w
+  public: false
 
 - author: Fatemeh Ganji
   title: Side-Channel Protected NNs Through Secure and Private Function Evaluation
+  youtube: URWmc16tth0
+  public: true
 
 - author: Hayden Cook (BYU)
   title: "Cloning the Unclonable: Physically Cloning an FPGA RO PUF"
+  youtube: dJBoP-EZiwA
+  public: true
 
 - author: Domenic Forte
   title: Revisiting RAM-Jam in the Face of Fault-Tolerant FSM Design and Layout
+  youtube: QAVOzJjmDFY
+  public: true
