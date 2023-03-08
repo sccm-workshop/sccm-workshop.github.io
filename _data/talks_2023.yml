@@ -4,7 +4,7 @@
   youtube: psEQIElioRM
   public: true
 
-- author: Shahin Tajik (Worcester Polytechnic Institute)
+- author: Shahin Tajik (WPI)
   title: On-Chip Impedance Sensing for System-Level Tamper Detection
   youtube: y0WRE3yt6QM
   public: true
@@ -29,17 +29,17 @@
   youtube: MjiHLNfL3KM
   public: true
 
-- author: Caroline Trippel
+- author: Caroline Trippel (Stanford)
   title: Scalable Assurance via Verifiable Hardware-Software Contracts
   youtube: jpKtL2OAwsQ
   public: true
 
-- author: Ali Keshavarzi
+- author: Ali Keshavarzi (Stanford)
   title: Atoms and Bits of Edge Intelligence
   youtube: P9EcYyXk95w
   public: false
 
-- author: Fatemeh Ganji
+- author: Fatemeh Ganji (WPI)
   title: Side-Channel Protected NNs Through Secure and Private Function Evaluation
   youtube: URWmc16tth0
   public: true
@@ -49,7 +49,7 @@
   youtube: dJBoP-EZiwA
   public: true
 
-- author: Domenic Forte
+- author: Domenic Forte (UF)
   title: Revisiting RAM-Jam in the Face of Fault-Tolerant FSM Design and Layout
   youtube: QAVOzJjmDFY
   public: true
