@@ -3,6 +3,7 @@ layout: default
 sidebar: true
 icon: fa-solid fa-circle-info
 title: Home
+order: 1
 ---
 
 ![](sccm-background.jpg)
