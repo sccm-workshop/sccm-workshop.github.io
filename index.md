@@ -28,7 +28,7 @@ This workshop is an opportunity to publicize our field at a top-tier conference.
 
 ## Organizers
 * [Dustin Richmond](https://www.dustinrichmond.com/) (UCSC)
-* [Ryan Kastner](https://kastner.ucsd.edu/ryan/) (UCSD)
+* [Ryan Kastner](https://cse.ucsd.edu/people/faculty-profiles/ryan-kastner) (UCSD)
 * [Jeff Goeders](https://ece.byu.edu/directory/jeff-goeders) (BYU)
 * [Mirjana Stojilović](https://mirjanastojilovic.github.io/) (EPFL)
 
