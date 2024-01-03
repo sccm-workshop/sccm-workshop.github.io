@@ -35,5 +35,7 @@ jobs:
           cache-version: 0 # Increment this number if you need to re-download cached gems
           
       - name: Check links
-        run: make check_links || make check_links || make check_links
+        run: |
+          make build
+          make check_links || make check_links || make check_links
         
