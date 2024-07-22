@@ -6,43 +6,29 @@ title: Home
 order: 1
 ---
 
-![](sccm-background.jpg)
-# SCCM 2023
+![]({% link media/2024-background.jpeg %})
+# SCCM 2024
 
-The 3rd Workshop on Security for Custom Computing Machines (SCCM) will be held in conjunction with [FPGA 2023](https://www.isfpga.org/). 
+The 4th Workshop on Security for Custom Computing Machines (SCCM) will be held in conjunction with [FPL 2024](http://asaclab.polito.it/fpl2024/). 
 
-Hardware security is an important design consideration. Recent events have raised awareness of security in general-purpose processors. As experts we must consider: What are the equivalents for reconfigurable architectures and custom computing machines? How do we defend against threats that exist today? How do we design our systems to defend against future threats? This is increasingly important as we deploy customized hardware at unprecedented scales.
-
-This workshop is an opportunity to publicize our field at a top-tier conference. Our goal is to increase the awareness of ongoing research in this area, develop new collaborations, and share research progress.
+Interest in hardware security and secure computing systems continues to grow.  Recent events have raised awareness of security in general-purpose processors.  However, addressing security in custom computing machines is also of high importance, given their increasing use in environments where security and privacy are paramount, including defense, medical, transportation, and communication systems.  The SCCM workshop allows researchers in this space to present recent work, discuss current security priorities, and collaborate on future research directions.
 
 ## Date & Time
-**Sunday, Feb 12, 2023.  9:00am - 12:30pm PST.**  
+**Monday, September 2, 2024. Time TBD**  
 
 ## Location
-**Monterey Marriott, room San Carlos III.**
+**Co-located with FPL 2024 in Turin, Italy.  Exact location TBD.**
 <!-- [Workshop Schedule]({% link agenda.md %}). -->
 
 ## Registration
- * In-person: [Register](https://www.isfpga.org/registration/) as part of FPGA 2023 and fill in the [2023 SCCM Registration form](https://forms.gle/Lp47Go8TtE18KVTW7).
- * Virtual: Fill in the [2023 SCCM Registration form](https://forms.gle/Lp47Go8TtE18KVTW7) to receive the Zoom link by e-mail.
+ * Details to come soon.
 
 ## Organizers
-* [Dustin Richmond](https://www.dustinrichmond.com/) (UCSC)
-* [Ryan Kastner](https://cse.ucsd.edu/people/faculty-profiles/ryan-kastner) (UCSD)
-* [Jeff Goeders](https://ece.byu.edu/directory/jeff-goeders) (BYU)
 * [Mirjana Stojilović](https://mirjanastojilovic.github.io/) (EPFL)
+* [Jeff Goeders](https://ece.byu.edu/directory/jeff-goeders) (BYU)
+
 
 
 ## Confirmed Speakers
 
-* Chandni Bhowmik (Intel) _Getting Logical Security Right for Modern FPGAs – A Battle with Complexity_
-* [Caroline Trippel](https://cs.stanford.edu/people/trippel/) (Stanford), _Scalable Assurance via Verifiable Hardware-Software Contracts_
-* [Ali Keshavarzi](https://profiles.stanford.edu/ali-keshavarzi) (Stanford), _Atoms and Bits of Edge Intelligence_
-* [Fatemeh Ganji](https://www.wpi.edu/people/faculty/fganji) (WPI), _Side-Channel Protected NNs Through Secure and Private Function Evaluation_
-* [Shahin Tajik](https://www.wpi.edu/people/faculty/stajik) (WPI), _On-Chip Impedance Sensing for System-Level Tamper Detection_
-* [Domenic Forte](https://www.ece.ufl.edu/people/faculty/domenic-forte/) (UF), _Revisiting RAM-Jam in the Face of Fault-Tolerant FSM Design and Layout_
-* Hayden Cook (BYU), _Cloning the Unclonable: Physically Cloning an FPGA RO PUF_
-* [Colin Drewes](https://colindrewes.com/) (Stanford), _Pentimento: Data Residue in Digital Hardware_
-* [Ognjen Glamočanin](https://ogacns94.github.io/) (EPFL), _Temperature Impact on Remote Power Side-Channel Attacks on Shared FPGAs_
-* [Shanquan Tian](https://caslab.csl.yale.edu/~shanquan/) (Yale), _Remote Power Attacks against Machine Learning Accelerators in Cloud FPGAs_
-* [Sujan Saha Kuman](https://smartsystems.ece.ufl.edu/people/sujan-kumar-saha/) (UF), _A Hardware/Software Framework for System-on-FPGA Security_
+Speaker list coming soon.
