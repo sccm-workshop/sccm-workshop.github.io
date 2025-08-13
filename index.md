@@ -22,21 +22,21 @@ Interest in hardware security and secure computing systems continues to grow.  R
 **CORPUS Congress Centre in Leiden, The Netherlands.**
 
 ## Registration
-1. [Register as part of FPL](https://2025.fpl.org/attending/registration/).  Be sure to include the *Workshops/Tutorials* option in your registration.
-1. Fill out the **SCCM 2025 Registration Form** (*coming soon*).  
+[Register as part of FPL](https://2025.fpl.org/attending/registration/).  Be sure to include the *Workshops/Tutorials* option in your registration.
+<!-- 1. Fill out the **SCCM 2025 Registration Form** (*coming soon*).   -->
 
 ## Organizers
 * [Mirjana Stojilović](https://mirjanastojilovic.github.io/) (EPFL)
 * [Jeff Goeders](https://ece.byu.edu/directory/jeff-goeders) (BYU)
 
-## Confirmed Speakers
+## Keynote Speakers
 * Durga Lakshmi-Ramachandran, *Keysight*.
 * Guy Gogniat, *Université Bretagne Sud*.
 * Jonathan Graf, *Graf Research*.
 * Trevor E. Carlson, *National University of Singapore*.
 
 ## Agenda
-TBD
+[Workshop Schedule]({% link agenda.md %}).
 
 ## Previous Workshops
 
