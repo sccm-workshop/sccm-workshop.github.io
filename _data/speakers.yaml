@@ -81,7 +81,12 @@
 - time: "5:00p - 5:15p"
   type: Talk
   name: Shreejith Shanker
+  title: Towards smarter vehicular network interfaces for the software-defined vehicles era
   affiliation: Trinity College Dublin
+  desc: |-
+    Modern vehicles integrate over 100 electronic control units (ECUs) to manage a wide spectrum of safety-critical and comfort-oriented functions. These systems increasingly rely on external connectivity—via V2X communication and over-the-air (OTA) updates—to enhance capabilities and maintain operational relevance. However, the convergence of software-defined functionality with legacy in-vehicle network architectures (e.g., CAN, LIN, FlexRay) and off-the-shelf hardware (embedded control units or ECUs) introduces significant attack vectors. Recent studies have demonstrated that adversaries can exploit these vulnerabilities to gain unauthorized access, inject malicious commands, and compromise core vehicular subsystems through relatively low-complexity network-based attacks. This underscores the urgent need for robust, in-vehicle security mechanisms that operate independently of the time- and safety-critical application on the ECUs. In this talk, we show a case for the integration of security primitives—specifically intrusion detection and prevention systems (IDPS)—directly within the network interface layer. By abstracting these functions below the application layer, we enable an ultra-low-latency threat mitigation and lay the groundwork for implementing security as a virtualized network function (VNF). This architectural shift is critical for building scalable, resilient, and secure vehicular communication frameworks in next-generation automotive platforms.
+  bio: |-
+    Dr. Shreejith Shanker is an Assistant Professor of Reconfigurable Computing at Trinity College Dublin, Ireland and leads the research group on reconfigurable computing systems. He is a member of the CONNECT research centre and the Sigmedia Group. His research interests include reconfigurable and adaptive computing systems, in-network computing, post-production media workflows, design automation tools and distributed embedded systems, with a focus on performance-energy trade-off and hardware-software codesign approaches.
 
 - time: "5:15p - 5:30p"
   type: Talk
