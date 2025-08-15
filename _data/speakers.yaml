@@ -54,6 +54,8 @@
   name: Zhuoran Liu
   affiliation: Radboud University
   title: "Physical Side-Channel Attacks on Neural Networks Implemented in FPGAs"
+  bio: |-
+    Zhuoran Liu is a postdoctoral researcher in the CESCA Lab at Radboud University in the Netherlands. His research interests include adversarial machine learning, side-channel analysis, and physical security.
 
 - time: "4:30p - 4:45p"
   type: Talk
