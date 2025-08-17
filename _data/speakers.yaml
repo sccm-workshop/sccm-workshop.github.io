@@ -34,7 +34,7 @@
   type: Mini-Keynote
   name: Durga Lakshmi-Ramachandran
   affiliation: Keysight
-  title: "Differential fault attack on PQC (Dilithium) implementation for key recovery"
+  title: "Differential Fault Attack on PQC (Dilithium) Implementation for Key Recovery"
   desc: |-
     We are moving to an era where quantum computing threatens the confidentiality of current cryptographic protocols, specifically around “harvest now, decrypt later” attacks. Algorithms such as CRYSTALS-Kyber and CRYSTALS-Dilithium, selected as NIST  standards, are built on well-studied and mathematically robust foundations. However, strong algorithmic design alone is not enough. A cryptographic system remains vulnerable if the implementation is insecure—algorithmic security does not guarantee implementation security. We will see example on how Fault Injection could be still relevant for PQC. 
   bio: |-
@@ -66,15 +66,7 @@
   affiliation: Ruhr University Bochum
   title: "Automated Generation and Evaluation of Masked Hardware"
   bio: |-
-    Nicolai Müller is a PhD student and research assistant in the
-    Implementation Security Group at Ruhr University Bochum, Germany. His
-    research focuses on side channel, hardware, and implementation security,
-    with a particular emphasis on automated applications to detect and
-    mitigate flaws in masked circuits. He has authored several publications
-    in top-tier venues, including IACR TCHES and ACM CCS. In 2022, he
-    received first prize in the 9th German IT Security Award for his
-    contribution to a toolbox for automated generation and evaluation of
-    protected hardware.
+    Nicolai Müller is a PhD student and research assistant in the Implementation Security Group at Ruhr University Bochum, Germany. His research focuses on side channel, hardware, and implementation security, with a particular emphasis on automated applications to detect and mitigate flaws in masked circuits. He has authored several publications in top-tier venues, including IACR TCHES and ACM CCS. In 2022, he received first prize in the 9th German IT Security Award for his contribution to a toolbox for automated generation and evaluation of protected hardware.
 
 - time: "4:45p - 5:00p"
   type: Talk
@@ -84,7 +76,7 @@
 - time: "5:00p - 5:15p"
   type: Talk
   name: Shreejith Shanker
-  title: Towards smarter vehicular network interfaces for the software-defined vehicles era
+  title: "Towards Smarter Vehicular Network Interfaces for The Software-Defined Vehicles Era"
   affiliation: Trinity College Dublin
   desc: |-
     Modern vehicles integrate over 100 electronic control units (ECUs) to manage a wide spectrum of safety-critical and comfort-oriented functions. These systems increasingly rely on external connectivity—via V2X communication and over-the-air (OTA) updates—to enhance capabilities and maintain operational relevance. However, the convergence of software-defined functionality with legacy in-vehicle network architectures (e.g., CAN, LIN, FlexRay) and off-the-shelf hardware (embedded control units or ECUs) introduces significant attack vectors. Recent studies have demonstrated that adversaries can exploit these vulnerabilities to gain unauthorized access, inject malicious commands, and compromise core vehicular subsystems through relatively low-complexity network-based attacks. This underscores the urgent need for robust, in-vehicle security mechanisms that operate independently of the time- and safety-critical application on the ECUs. In this talk, we show a case for the integration of security primitives—specifically intrusion detection and prevention systems (IDPS)—directly within the network interface layer. By abstracting these functions below the application layer, we enable an ultra-low-latency threat mitigation and lay the groundwork for implementing security as a virtualized network function (VNF). This architectural shift is critical for building scalable, resilient, and secure vehicular communication frameworks in next-generation automotive platforms.
