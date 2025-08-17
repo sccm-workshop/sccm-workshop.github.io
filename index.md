@@ -15,8 +15,8 @@ order: 1
 Interest in hardware security and secure computing systems continues to grow.  Recent events have raised awareness of security in general-purpose processors.  However, addressing security in custom computing machines is also of high importance, given their increasing use in environments where security and privacy are paramount, including defense, medical, transportation, and communication systems.  The SCCM workshop allows researchers in this space to present recent work, discuss current security priorities, and collaborate on future research directions.
 
 
-## Date & Time
-**Tuesday, Sep 2nd, afternoon.** (Exact time TBD)
+## Location, Date & Time
+**Lounge. Tuesday, Sep 2nd, 13:30 to 17:30.**
 
 ## Location
 **CORPUS Congress Centre in Leiden, The Netherlands.**
@@ -29,11 +29,19 @@ Interest in hardware security and secure computing systems continues to grow.  R
 * [Mirjana Stojilović](https://mirjanastojilovic.github.io/) (EPFL)
 * [Jeff Goeders](https://ece.byu.edu/directory/jeff-goeders) (BYU)
 
-## Keynote Speakers
+## Invited Keynote Speakers
 * Durga Lakshmi-Ramachandran, *Keysight*.
 * Guy Gogniat, *Université Bretagne Sud*.
 * Jonathan Graf, *Graf Research*.
 * Trevor E. Carlson, *National University of Singapore*.
+
+## Invited Speakers
+* Barbora Hrda, *TUM*.
+* Zhuoran Liu, *Radboud University*.
+* Nicolai Müler, *RUB*.
+* Francesco Regazzoni, *USI and University of Amsterdam*.
+* Shreejith Shanker, *Trinity College Dublin*.
+
 
 ## Agenda
 [Workshop Schedule]({% link agenda.md %}).
