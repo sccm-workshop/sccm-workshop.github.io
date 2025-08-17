@@ -20,8 +20,11 @@
   type: Mini-Keynote
   name: Guy Gogniat
   affiliation: Université Bretagne Sud
-  title: "A fine-grained dynamic partitioning against cache-based timing attacks via cache locking"
-
+  title: "A Fine-Grained Dynamic Partitioning Against Cache-Based Timing Attacks via Cache Locking"
+  desc: |-
+    In this talk we will discuss some contributions to the security of processor-based systems in the context of embedded devices. We will discuss a solution to ensure constant-time computation and how the cache architecture can be extended to ensure constant-time properties. This approach exploits the software-hardware interface by extending ISA RISC-V to lock and unlock some sensitive data in the cache.
+   bio: |-
+    Guy Gogniat is Professor of ECE at the Université Bretagne Sud, Lorient, France, where he has been since 1998. In 2005, he spent a year as an invited researcher at the University of Massachusetts, Amherst, USA, working on the security of embedded systems using reconfigurable technologies. His work focuses on design methodologies and tools for embedded systems. He has conducted research in the area of reconfigurable and adaptive computing. He has been developing research in the area of embedded system security for 20 years. He is currently Vice-Dean of the Faculty of Sciences and the scientific and pedagogical director of the CYBERUS Erasmus Mundus programme in Cybersecurity. 
 - time: "3:00p - 3:30p"
   type: BREAK
   name: ---
