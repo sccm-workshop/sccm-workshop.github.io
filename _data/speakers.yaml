@@ -57,7 +57,9 @@
   type: Talk
   name: Zhuoran Liu
   affiliation: Radboud University
-  title: "Physical Side-Channel Attacks on Neural Networks Implemented in FPGAs"
+  title: "Physical Side-Channel Attacks on Neural Networks Implementations"
+  desc: |- 
+    Neural networks have become the fundamental component of numerous practical applications. Implementations of neural networks, which are often accelerated by hardware, are integrated into all types of real-world physical devices. Substantial efforts have been made to uncover vulnerabilities and enhance privacy protection at the algorithmic level, but neural networks are ultimately implemented and deployed on physical devices. In this talk, we will take a look at recent advances and challenges in the physical side-channel analysis of neural network implementations.
   bio: |-
     Zhuoran Liu is a postdoctoral researcher in the CESCA Lab at Radboud University in the Netherlands. His research interests include adversarial machine learning, side-channel analysis, and physical security.
 
