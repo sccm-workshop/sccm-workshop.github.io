@@ -16,7 +16,7 @@ Interest in hardware security and secure computing systems continues to grow.  R
 
 
 ## Location, Date & Time
-**Lounge. Tuesday, Sep 2nd, 13:30 to 17:30.**
+**Breakoutzaal 1+2. Tuesday, Sep 2nd, 13:30 to 17:30.**
 
 ## Location
 **CORPUS Congress Centre in Leiden, The Netherlands.**
