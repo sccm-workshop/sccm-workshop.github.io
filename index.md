@@ -41,6 +41,7 @@ Interest in hardware security and secure computing systems continues to grow.  R
 * Nicolai Müler, *RUB*.
 * Francesco Regazzoni, *USI and University of Amsterdam*.
 * Shreejith Shanker, *Trinity College Dublin*.
+* Jo Vliegen, *ES&S/COSIC, ESAT, KU Leuven*.
 
 
 ## Agenda
