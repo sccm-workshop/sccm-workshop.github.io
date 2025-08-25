@@ -90,3 +90,12 @@
 
 - time: "5:15p - 5:30p"
   type: Talk
+  name: Jo Vliegen
+  title: "FPGA Attestation Through Readback"
+  affiliation: ES&S/COSIC, ESAT, KU Leuven, Diepenbeek, Belgium
+  desc: |-
+    European regulation is taking a leading role with respect to cyber security. This has resulted, for example, in the Cyber Resilience Act (CRA) and the NIS2 Directive. As is reflected in these initiatives, it is more important than ever to be informed on the "health status" of electronic devices. Attestation is a very useful technique that can help an operator and/or user to gain insights in the "health status" of their devices. Running attestation on software/firmware is a necessary but (possibly) insufficient measure. When targeting an FPGA, the configuration of the device can also be attested to a certain extent. This talk discusses how FPGA attestation can be achieved and touches on the challenges that occur while running attestation.
+  bio: |-
+    Jo Vliegen got his master's degree in engineering technology in 2005 from the KHLim university college. After a little over three years, he returned to campus Diepenbeek and started working on FPGAs under the supervision of Nele Mentens. He obtained his PhD from KU Leuven in 2014 with a dissertation entitled: “Partial and dynamic FPGA reconfiguration for security applications” under the promotorship of prof. Ingrid Verbauwhede and prof. Nele Mentens. Jo was a post-doc in the COSIC and ES&S research groups between 2014 and 2020. From 2020 onwards he works as a research expert in both COSIC and ES&S. His research still focuses on FPGAs and their usage in security applications mainly targeting attestation through RISC-V. 
+    
+
