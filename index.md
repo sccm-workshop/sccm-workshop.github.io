@@ -30,10 +30,10 @@ Interest in hardware security and secure computing systems continues to grow.  R
 * [Jeff Goeders](https://ece.byu.edu/directory/jeff-goeders) (BYU)
 
 ## Invited Keynote Speakers
-* Durga Lakshmi-Ramachandran, *Keysight*.
-* Guy Gogniat, *Université Bretagne Sud*.
 * Jonathan Graf, *Graf Research*.
 * Trevor E. Carlson, *National University of Singapore*.
+* Guy Gogniat, *Université Bretagne Sud*.
+* Durga Lakshmi-Ramachandran, *Keysight*.
 
 ## Invited Speakers
 * Barbora Hrda, *TUM*.
