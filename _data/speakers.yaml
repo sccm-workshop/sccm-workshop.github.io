@@ -81,6 +81,23 @@
   type: Talk
   name: Francesco Regazzoni
   affiliation: USI and University of Amsterdam
+  bio: |-
+    Dr. Francesco Regazzoni is Associate Professor at University of
+    Amsterdam and also affiliated with Università della Svizzera italiana.
+    His research interests are mainly focused on secure IoT devices and
+    embedded systems, covering in particular design automation for security,
+    physical attacks and countermeasures, post-quantum cryptography, and
+    efficient implementation of cryptographic primitives. He is the
+    coordinator of the SECURED Horizon Europe Project.
+  desc: |-
+    To ensure that security is implemented in a sustainable way, it is
+    necessary that the implemented primitives consume little resources and
+    are supporting crypto-agility (so to allow updates of security
+    primitives rather than replacement of whole system). In this talk, we
+    will deep dive in the concept of crypto agility from a hardware point of
+    view, explaining the considerations that should be made when designing
+    crypto-agile hardware and discussing how FPGAs can help to provide
+    cryptog-agility.
 
 - time: "5:00p - 5:15p"
   type: Talk
