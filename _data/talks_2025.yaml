@@ -44,7 +44,7 @@
     We are moving to an era where quantum computing threatens the confidentiality of current cryptographic protocols, specifically around “harvest now, decrypt later” attacks. Algorithms such as CRYSTALS-Kyber and CRYSTALS-Dilithium, selected as NIST  standards, are built on well-studied and mathematically robust foundations. However, strong algorithmic design alone is not enough. A cryptographic system remains vulnerable if the implementation is insecure—algorithmic security does not guarantee implementation security. We will see example on how Fault Injection could be still relevant for PQC. 
   bio: |-
     Durga  Ramachandran, Innovation Director at Keysight Technologies Riscure B.V. is currently leading the development of Post-Quantum Cryptography (PQC) solutions. She has  13 years of international experience across India, Singapore, UK, and the Netherlands. She gained technical background with Master’s in Electrical Engineering and business acumen from an MBA at Rotterdam School of Management. 
-
+  slides: DurgaRamachandran_SCCM.pdf
 
 - time: "4:00p - 4:15p"
   type: Talk
