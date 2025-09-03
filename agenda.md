@@ -13,7 +13,7 @@ title: Agenda
 <th>Time (CEST)</th><th>Type</th><th>Speaker</th><th>Title</th>
 </tr>
 
-{% for talk in site.data.speakers %}
+{% for talk in site.data.talks_2025 %}
 <tr>
 <td rowspan="2">{{ talk.time }}</td>
 <td rowspan="2">{{ talk.type }}</td>
