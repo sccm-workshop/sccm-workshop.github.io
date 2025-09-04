@@ -31,6 +31,10 @@ title: Agenda
 <em>Bio:</em> <small>{{ talk.bio | markdownify }}</small>
 {% endif %}
 
+{% if talk.slides %}
+<a href="{% link media/2025_slides/{{ talk.slides }} %}">Slides</a>
+{% endif %}
+
 </td>
 </tr>
 {% endfor %}
