@@ -9,6 +9,7 @@
     Among these innovations is a method for bitstream equivalence checking, Enverite PV-Bit, which confirms whether an FPGA’s bitstream truly matches the intended gate-level netlist. Another is Ensofic, a silicon attestation platform that combines soft sensors with machine learning to evaluate both the reliability and authenticity of an FPGA, including the ability to spot counterfeit devices.
 
     The talk will also cover what it takes to turn research prototypes into practical, commercial-grade solutions ready for deployment in high-stakes industries like aerospace, automotive, defense, and energy. Drawing on hands-on experience with deployed commercial solutions, Dr. Graf will outline key lessons learned and show how these projects have inspired unexpected new applications. The result is a clear picture of challenges and how the security of custom computing machines can advance rapidly in the years ahead.
+  slides: "2025-09-02 SCCM 2025 Jonathan Graf - For Distribution.pdf"
 
 - time: "2:00p - 2:30p"
   type: Mini-Keynote
@@ -29,6 +30,7 @@
     In this talk we will discuss some contributions to the security of processor-based systems in the context of embedded devices. We will discuss a solution to ensure constant-time computation and how the cache architecture can be extended to ensure constant-time properties. This approach exploits the software-hardware interface by extending ISA RISC-V to lock and unlock some sensitive data in the cache.
   bio: |-
     Guy Gogniat is Professor of ECE at the Université Bretagne Sud, Lorient, France, where he has been since 1998. In 2005, he spent a year as an invited researcher at the University of Massachusetts, Amherst, USA, working on the security of embedded systems using reconfigurable technologies. His work focuses on design methodologies and tools for embedded systems. He has conducted research in the area of reconfigurable and adaptive computing. He has been developing research in the area of embedded system security for 20 years. He is currently Vice-Dean of the Faculty of Sciences and the scientific and pedagogical director of the CYBERUS Erasmus Mundus programme in Cybersecurity. 
+  slides: SCCM_2025_Talk_Leiden_Guy_Gogniat.pdf
 
 - time: "3:00p - 3:30p"
   type: BREAK
