@@ -28,7 +28,7 @@ Interest in hardware security and secure computing systems continues to grow.  R
 ## Organizers
 * [Ryan Kastner](https://kastner.ucsd.edu/) (UC San Diego)
 * [Jeff Goeders](https://ece.byu.edu/directory/jeff-goeders) (BYU)
-* [Hannah Mahon](https://www.linkedin.com/in/hmahon/) (Georgia Tech Research Institute)
+* Hannah Mahon (Georgia Tech Research Institute)
 
 ## Invited Keynote Speakers
 * Lee Lerner, *Georgia Tech Research Institute*
