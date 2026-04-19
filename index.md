@@ -26,18 +26,17 @@ Interest in hardware security and secure computing systems continues to grow.  R
 <!-- 1. Fill out the **SCCM 2025 Registration Form** (*coming soon*).   -->
 
 ## Organizers
-* [Ryan Kastner](https://kastner.ucsd.edu/) (UC San Diego)
 * [Jeff Goeders](https://ece.byu.edu/directory/jeff-goeders) (BYU)
+* [Ryan Kastner](https://kastner.ucsd.edu/) (UC San Diego)
 * Hannah Mahon (Georgia Tech Research Institute)
+* [Dustin Richmond](https://www.dustinrichmond.com/) (UC Santa Cruz)
 
 ## Invited Keynote Speakers
 * Lee Lerner, *Georgia Tech Research Institute*
 
 
 ## Invited Speakers
-* Dustin Richmond, *UC Santa Cruz*
-
-
+* TBD
 
 ## Agenda
 Coming Soon
