@@ -32,11 +32,11 @@ Interest in hardware security and secure computing systems continues to grow.  R
 * [Dustin Richmond](https://www.dustinrichmond.com/) (UC Santa Cruz)
 
 ## Invited Keynote Speakers
-* Lee Lerner, *Georgia Tech Research Institute*
+* Coming soon
 
 
 ## Invited Speakers
-* TBD
+* Coming Soon
 
 ## Agenda
 Coming Soon
