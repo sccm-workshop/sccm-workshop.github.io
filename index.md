@@ -16,10 +16,10 @@ Interest in hardware security and secure computing systems continues to grow.  R
 
 
 ## Location, Date & Time
-**Wednesday May 13, 2026.**
+**Wednesday May 13, 2026, 1:30-4:30PM**
 
 ## Location
-**Georgia Tech CODE Building**
+**[Georgia Tech CODA Building](http://coda.gatech.edu/)**
 
 ## Registration
 [Register as part of FCCM](https://www.fccm.org/registration-2026/).  Be sure to include the *Workshops/Tutorials* option in your registration.
@@ -31,12 +31,12 @@ Interest in hardware security and secure computing systems continues to grow.  R
 * Hannah Mahon (Georgia Tech Research Institute)
 * [Dustin Richmond](https://www.dustinrichmond.com/) (UC Santa Cruz)
 
-## Invited Keynote Speakers
-* Coming soon
-
-
-## Invited Speakers
-* Coming Soon
+## Speakers
+* [Cynthia Sturton](https://www.cs.unc.edu/~csturton/) (UNC Chapel Hill)
+* [Christophe Bobda](https://faculty.eng.ufl.edu/bobda/) (University of Florida)
+* [Saman Zonouz](https://sites.google.com/site/samanzonouz4n6/saman-zonouz) (Georgia Tech)
+* [Dustin Richmond](https://www.dustinrichmond.com/) (UC Santa Cruz)
+* [Jeff Goeders](https://ece.byu.edu/directory/jeff-goeders) (BYU)
 
 ## Agenda
 Coming Soon
