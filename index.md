@@ -37,6 +37,7 @@ Interest in hardware security and secure computing systems continues to grow.  R
 * [Saman Zonouz](https://sites.google.com/site/samanzonouz4n6/saman-zonouz) (Georgia Tech)
 * [Dustin Richmond](https://www.dustinrichmond.com/) (UC Santa Cruz)
 * [Jeff Goeders](https://ece.byu.edu/directory/jeff-goeders) (BYU)
+* More to be announced soon...
 
 ## Agenda
 Coming Soon
