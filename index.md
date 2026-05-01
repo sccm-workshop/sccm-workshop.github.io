@@ -26,17 +26,20 @@ Interest in hardware security and secure computing systems continues to grow.  R
 <!-- 1. Fill out the **SCCM 2025 Registration Form** (*coming soon*).   -->
 
 ## Organizers
+* [Jeff Goeders](https://ece.byu.edu/directory/jeff-goeders) (BYU)
 * [Ryan Kastner](https://kastner.ucsd.edu/) (UC San Diego)
 * [Hannah Mahon](https://www.linkedin.com/in/hmahon/) (Georgia Tech Research Institute)
 * [Dustin Richmond](https://www.dustinrichmond.com/) (UC Santa Cruz)
-* [Jeff Goeders](https://ece.byu.edu/directory/jeff-goeders) (BYU)
 
 ## Speakers
 * [Cynthia Sturton](https://www.cs.unc.edu/~csturton/) (UNC Chapel Hill)
+* [Jonathan Graf](https://www.grafresearch.com/) (Graf Research)
 * [Christophe Bobda](https://faculty.eng.ufl.edu/bobda/) (University of Florida)
 * [Saman Zonouz](https://sites.google.com/site/samanzonouz4n6/saman-zonouz) (Georgia Tech)
 * [Dustin Richmond](https://www.dustinrichmond.com/) (UC Santa Cruz)
 * [Jeff Goeders](https://ece.byu.edu/directory/jeff-goeders) (BYU)
+* [Sarbartha Banerjee](https://sites.google.com/view/sarbartha/bio) (Georgia Tech)
+* [Frank Werner](https://www.linkedin.com/in/frank-werner-51535599/) (Georgia Tech Research Institute)
 * More to be announced soon...
 
 ## Agenda
