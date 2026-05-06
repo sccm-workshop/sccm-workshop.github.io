@@ -1,0 +1,55 @@
+- time: "1:30p - 2:00p"
+  type: Mini-Keynote
+  name: Jonathan Graf
+  title: "CAD for Configurable Computing Machine Security"
+  desc: |-
+    The security subsystems of modern FPGA and Adaptive SoC devices have become custom computing machines in their own right. Without even considering the user-programmable logic, the heterogeneous and reconfigurable security systems comprise mechanisms for secure boot, authentication, encryption, key storage, anti-DPA protection, debug authorization, isolation, trusted execution, runtime cryptographic services, device identity, tamper monitoring, error response, revocation, measured boot, and decommissioning. Each of these subsystems is configured, provisioned, invoked, or retired at different points in the device lifecycle. Thus, security configuration is no longer merely a list of options applied to a device. It is the design of a temporally reconfigurable computing system whose security properties emerge from the coherent selection, implementation, and verification of interacting subsystems. The FPGA community lacks a robust CAD discipline for this problem. Security and safety policies increasingly demand not only that designers meet security requirements, but also that they preserve evidence proving those requirements were met in the implemented device. This talk presents a theory of CAD for Custom Computing Machine security, using the AMD Versal AI Edge Series Gen 2 as an example device, and describes how that theory motivated the Enverité Forge Security Lifecycle Manager (SLM). Forge SLM captures requirements, threats, vendor guidance, feature dependencies, build steps, and verification expectations in Hardware Security Implementation Guides (HSIGs). Forge then guides feature selection, orchestrates implementation through build-tool connectors, invokes third-party validation tools to verify the built result, and produces auditable evidence of policy adherence. Related Enverité EDA tools, including PV-Bit for bitstream equivalence checking and Trace for tamper-evident build provenance, will be discussed as additional sources of evidence in a broader assurance case. Forge and its connected tools represent a step forward in developing a CAD discipline specifically targeted at configurable computing machine security.
+  bio: |-
+    Jonathan Graf is the founder and CEO of Graf Research, where he leads research and product development in FPGA security, microelectronics trust, and assurance-focused electronic design automation. He holds a PhD in Computer Engineering from Virginia Tech. Before founding Graf Research he served as Director of Technology in MacAulay Brown's Secure Computing and Communications Division, directing work in microelectronics trust, security, and electronic-system reverse engineering. His technical work has helped define several threads of modern FPGA assurance, including game-theoretic and security-economic methods for selecting hardware Trojan detection strategies, private verification of FPGA bitstreams through PV-Bit, and numerous FPGA technologies for design, security, and assurance. In 2025, he received the Brian Cohen Memorial Award at IEEE HOST in recognition of his contributions to hardware security. He is a regular contributor to academic and industrial conferences and journals related to microelectronics security, safety, and assurance. At any given time, he is likely thinking about cycling, hiking, or his son's soccer team.
+
+- time: "2:00p - 2:30p"
+  type: Mini-Keynote
+  name: Cynthia Sturton
+  title: "Bringing Symbolic Execution to the Security Verification of Hardware Designs"
+  desc: |-
+    Path-based symbolic execution is an effective analysis technique for the security verification of hardware designs. In this talk, I will present a snapshot of the field of symbolic execution for hardware security and highlight the research my lab has been doing over the last five years to develop a path-based symbolic execution engine tailored to the security verification of large-scale, open-source CPUs and SoCs. In the first part of the talk I will present a brief primer on symbolic execution and trace its history from a software engineering powerhouse to its current success in hardware security verification. In the second part of the talk I will present three recent contributions from my lab: a new technique to tame the path explosion problem; the use of query caching to improve symbolic execution performance over time; and the combined use of static analysis with symbolic execution to discover and explicate flows of information through a design.
+
+- time: "2:30p - 2:45p"
+  type: Talk
+  name: Dean Sullivan
+  title: "Rethinking Automated Repair for Modern Hardware Design"
+  desc: |-
+    As hardware designs grow in complexity, advancing the tools and methodologies to verify and repair them becomes increasingly critical. Small bugs in modern designs can escape simulation, survive synthesis, and reach silicon undetected. While software has benefited from decades of automated program repair research, automated program repair of hardware remains largely unexplored. Diagnosis and repair still depend heavily on manual inspection of simulation traces, a process that is neither scalable nor systematic. The gap between software and hardware repair runs deeper than tooling. register transfer level (RTL) bugs propagate through time as well as logic, fault-effects may surface cycles away from their source, and validity must be evaluated over simulation traces rather than test suites. Mutation operators and localization techniques borrowed from software carry none of this semantic awareness, and the hardware-specific alternatives remain underdeveloped. Compounding these challenges is a benchmarking problem, which has not been properly addressed. Existing repair tools are mostly evaluated almost exclusively on small, self-contained designs like counters, decoders, and simple FSMs. Real hardware is more complex and sophisticated. Open-source designs like RISC-V cores and the OpenTitan root-of-trust expose a different class of bugs entirely: cross-module propagation, closely related timing dependencies, and faults whose effects are only visible at the system level. The rise of high-level synthesis (HLS) adds another dimension, where bugs originate in behavioral descriptions and survive into generated RTL in ways that neither HLS verification nor traditional repair tools are equipped to handle. These gaps in localization, mutation, and evaluation methodology remain largely open.
+
+- time: "2:45p - 3:00p"
+  type: Talk
+  name: Vincent Mooney
+
+- time: "3:00p - 3:15p"
+  type: Talk
+  name: Sarbartha Banerjee
+  title: "Cascade: A Cross-Layer Attack Gadget Composition Framework for End-to-End Exploits in Compound AI Systems"
+  desc: |-
+    In this talk, we examine how software CVEs and hardware-level attack gadgets can amplify adversarial capabilities in real-world AI deployments. We begin with a comprehensive systematization of algorithmic, software, and hardware vulnerabilities across the AI pipeline, classifying them by both attacker capability and intended attack target. We then demonstrate how multi-component, cross-stack attack vectors can be composed to undermine AI safety within a compound AI pipeline. The core contribution is a framework that enables attackers to identify the most effective attack chain for a given threat model, while giving system designers the tools to anticipate such chains and build cross-stack defenses.
+
+- time: "3:15p - 3:30p"
+  type: Talk
+  name: Frank Werner
+  title: "Approaches for Detecting Recycled FPGA Devices"
+  desc: |-
+    Recycled microelectronic devices are a major concern for the electronics industry. They have a shortened lifespan and can cause the systems that rely on them to fail prematurely. Given their price and widespread usage, FPGAs are an attractive target for recycling. Several approaches for detecting recycling have been proposed in the last few years. This talk covers three promising approaches: power spectrum analysis (PSA), electromagnetic (EM) reflectance, and internal sensing using ring oscillators (ROs). Each of these approaches detects signs of recycling by monitoring different parts of the FPGA. As a result, each is best suited for different circumstances. The effectiveness of all three approaches is demonstrated on 28 nm Kintex-7 FPGA devices.
+
+- time: "3:30p - 3:45p"
+  type: Talk
+  name: Dustin Richmond
+
+- time: "3:45p - 4:30p"
+  type: Panel
+  name: "Panelists"
+  title: "Panel Discussion"
+  desc: |-
+    * Jeff Goeders
+    * Saman Zonouz
+    * Frank Garcia
+    * Andrew Zeliff
+    * Christophe Bobda

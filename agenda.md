@@ -6,14 +6,14 @@ order: 2
 title: Agenda
 ---
 
-## Tuesday, Sep 2nd, 2025
+## Wednesday, May 13th, 2026 (1:30–4:30 PM)
 
 <table>
 <tr>
-<th>Time (CEST)</th><th>Type</th><th>Speaker</th><th>Title</th>
+<th>Time</th><th>Type</th><th>Speaker</th><th>Title</th>
 </tr>
 
-{% for talk in site.data.talks_2025 %}
+{% for talk in site.data.talks_2026 %}
 <tr>
 <td rowspan="2">{{ talk.time }}</td>
 <td rowspan="2">{{ talk.type }}</td>
