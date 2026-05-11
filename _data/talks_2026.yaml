@@ -15,41 +15,57 @@
     Path-based symbolic execution is an effective analysis technique for the security verification of hardware designs. In this talk, I will present a snapshot of the field of symbolic execution for hardware security and highlight the research my lab has been doing over the last five years to develop a path-based symbolic execution engine tailored to the security verification of large-scale, open-source CPUs and SoCs. In the first part of the talk I will present a brief primer on symbolic execution and trace its history from a software engineering powerhouse to its current success in hardware security verification. In the second part of the talk I will present three recent contributions from my lab: a new technique to tame the path explosion problem; the use of query caching to improve symbolic execution performance over time; and the combined use of static analysis with symbolic execution to discover and explicate flows of information through a design.
 
 - time: "2:30p - 2:45p"
+  type: Break
+  name: "Break"
+  title: "Break"
+  desc: |-
+    Please take this time to stretch, grab a snack, and network with your fellow attendees. The next session will begin promptly at 2:45 PM.
+
+
+- time: "2:45p - 3:00p"
   type: Talk
   name: MD. Kawser Ahmed and Christophe Bobda
   title: "Physical Voltage Isolation Technique for  Multi-Tenant FPGA Security"
   desc: |-
     This works presents the design of a novel power isolation architecture for FPGA, which leverages capacitive galvanic isolation through CMOS-based physical components. In multi-tenant FPGA clouds where tenants share FPGA resources, our design physically separates tenant power domains using reconfigurable capacitors, switch banks, and a centralized power management and configuration controller, thereby mitigating voltage spikes, ground loops, and electrical noise, the primary vectors for remote physical attacks. Additionally, we introduce FPIF, a domain-specific isolation scripting language that supports secure, tenant-aware configuration. Our architecture achieves up to 50\% reduction in logic overhead and maintains only 4800 LUTs for 8-cluster isolation—significantly outperforming prior approaches that exceed 16,000 LUTs. To the best of our knowledge, this is the first capacitive isolation-based FPGA security framework with integrated scripting and real-time runtime enforcement. The proposed FPIF system enables dynamic, fine-grained voltage domain control with secure script-to-hardware translation in under 1~ms, providing both adaptability and robust protection against emerging physical-layer threats.
 
-- time: "2:45p - 3:00p"
+- time: "3:00p - 3:15p"
   type: Talk
   name: Arman Allahverdi and Vincent Mooney
   title: "Cryptographic Primitive Design for Reconfigurable Hardware using CMPRs"
   desc: |-
     Nonlinear feedback registers have numerous applications in cryptographic hardware. In the prior work, nonlinear feedback shift registers (NLFSRs) are commonly used; however, NLFSRs are not inherently scalable to arbitrary register sizes. We have discovered a new scalable class of nonlinear feedback registers called Composite Mersenne Product Registers (CMPRs), which have mathematical proofs for exponential expected periodicity and linear complexity. For a given register size, there exists an exponential number of CMPR constructions. We believe that on reconfigurable hardware targets, the parameters of CMPRs can be used as hardware-based keys as a means to create lightweight cryptographic hardware. We demonstrate our design philosophy of CMPRs with hardware-based keys through the implementation and analysis of a reconfigurable, CMPR-based message authentication code (MAC), which we compare to several finalist candidates from the NIST Lightweight Cryptography Competition in terms of FPGA utilization.
 
-- time: "3:00p - 3:15p"
+- time: "3:15p - 3:30p"
   type: Talk
   name: Sarbartha Banerjee
   title: "Cascade: A Cross-Layer Attack Gadget Composition Framework for End-to-End Exploits in Compound AI Systems"
   desc: |-
     In this talk, we examine how software CVEs and hardware-level attack gadgets can amplify adversarial capabilities in real-world AI deployments. We begin with a comprehensive systematization of algorithmic, software, and hardware vulnerabilities across the AI pipeline, classifying them by both attacker capability and intended attack target. We then demonstrate how multi-component, cross-stack attack vectors can be composed to undermine AI safety within a compound AI pipeline. The core contribution is a framework that enables attackers to identify the most effective attack chain for a given threat model, while giving system designers the tools to anticipate such chains and build cross-stack defenses.
 
-- time: "3:15p - 3:30p"
+- time: "3:45p - 4:00p"
   type: Talk
   name: Frank Werner
   title: "Approaches for Detecting Recycled FPGA Devices"
   desc: |-
     Recycled microelectronic devices are a major concern for the electronics industry. They have a shortened lifespan and can cause the systems that rely on them to fail prematurely. Given their price and widespread usage, FPGAs are an attractive target for recycling. Several approaches for detecting recycling have been proposed in the last few years. This talk covers three promising approaches: power spectrum analysis (PSA), electromagnetic (EM) reflectance, and internal sensing using ring oscillators (ROs). Each of these approaches detects signs of recycling by monitoring different parts of the FPGA. As a result, each is best suited for different circumstances. The effectiveness of all three approaches is demonstrated on 28 nm Kintex-7 FPGA devices.
 
-- time: "3:30p - 3:45p"
+- time: "4:00p - 4:15p"
   type: Talk
   name: Dustin Richmond
   title: "Digital Abstractions on Analog Devices"
   desc: |-
     The push for faster, smaller, and cheaper has stretched the limits of digital abstractions in contemporary devices. By ignoring the underlying physics of devices, we create security vulnerabilities as the analog behavior becomes more exposed. In this talk I will discuss (briefly) two of our existing works: Pentimento, and BREW-RC, which rely on the physics of underlying devices to create side channels that can be used to extract user information and proprietary secrets. I will conclude with some musings about the end of Moore’s law, and more importantly, Dennard scaling and the implications they could have for future devices.
-    
-- time: "3:45p - 4:30p"
+
+- time: "4:15p - 4:30p"
+  type: Break
+  name: "Break"
+  title: "Break"
+  desc: |-
+    Please take this time to stretch, grab a snack, and network with your fellow attendees. The next session will begin promptly at 4:30 PM.
+
+
+- time: "4:30p - 5:15p"
   type: Panel
   name: "Panelists"
   title: "Panel Discussion"
