@@ -16,7 +16,7 @@ Interest in hardware security and secure computing systems continues to grow.  R
 
 
 ## Location, Date & Time
-**Wednesday May 13, 2026, 1:30-4:30PM**
+**Wednesday May 13, 2026, 1:30-4:30PM Eastern Time (ET)**
 
 ## Location
 **[Georgia Tech CODA Building](http://coda.gatech.edu/)**

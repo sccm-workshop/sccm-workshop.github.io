@@ -23,7 +23,10 @@
 
 - time: "2:45p - 3:00p"
   type: Talk
-  name: Vincent Mooney
+  name: Arman Allahverdi and Vincent Mooney
+  title: "Cryptographic Primitive Design for Reconfigurable Hardware using CMPRs"
+  desc: |-
+    Nonlinear feedback registers have numerous applications in cryptographic hardware. In the prior work, nonlinear feedback shift registers (NLFSRs) are commonly used; however, NLFSRs are not inherently scalable to arbitrary register sizes. We have discovered a new scalable class of nonlinear feedback registers called Composite Mersenne Product Registers (CMPRs), which have mathematical proofs for exponential expected periodicity and linear complexity. For a given register size, there exists an exponential number of CMPR constructions. We believe that on reconfigurable hardware targets, the parameters of CMPRs can be used as hardware-based keys as a means to create lightweight cryptographic hardware. We demonstrate our design philosophy of CMPRs with hardware-based keys through the implementation and analysis of a reconfigurable, CMPR-based message authentication code (MAC), which we compare to several finalist candidates from the NIST Lightweight Cryptography Competition in terms of FPGA utilization.
 
 - time: "3:00p - 3:15p"
   type: Talk
@@ -42,7 +45,10 @@
 - time: "3:30p - 3:45p"
   type: Talk
   name: Dustin Richmond
-
+  title: "Digital Abstractions on Analog Devices"
+  desc: |-
+    The push for faster, smaller, and cheaper has stretched the limits of digital abstractions in contemporary devices. By ignoring the underlying physics of devices, we create security vulnerabilities as the analog behavior becomes more exposed. In this talk I will discuss (briefly) two of our existing works: Pentimento, and BREW-RC, which rely on the physics of underlying devices to create side channels that can be used to extract user information and proprietary secrets. I will conclude with some musings about the end of Moore’s law, and more importantly, Dennard scaling and the implications they could have for future devices.
+    
 - time: "3:45p - 4:30p"
   type: Panel
   name: "Panelists"
