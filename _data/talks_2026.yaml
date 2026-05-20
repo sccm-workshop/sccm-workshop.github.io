@@ -1,5 +1,5 @@
 - time: "1:30p - 2:00p"
-  type: Mini-Keynote
+  type: Keynote
   name: Jonathan Graf
   title: "CAD for Configurable Computing Machine Security"
   desc: |-
@@ -8,7 +8,7 @@
     Jonathan Graf is the founder and CEO of Graf Research, where he leads research and product development in FPGA security, microelectronics trust, and assurance-focused electronic design automation. He holds a PhD in Computer Engineering from Virginia Tech. Before founding Graf Research he served as Director of Technology in MacAulay Brown's Secure Computing and Communications Division, directing work in microelectronics trust, security, and electronic-system reverse engineering. His technical work has helped define several threads of modern FPGA assurance, including game-theoretic and security-economic methods for selecting hardware Trojan detection strategies, private verification of FPGA bitstreams through PV-Bit, and numerous FPGA technologies for design, security, and assurance. In 2025, he received the Brian Cohen Memorial Award at IEEE HOST in recognition of his contributions to hardware security. He is a regular contributor to academic and industrial conferences and journals related to microelectronics security, safety, and assurance. At any given time, he is likely thinking about cycling, hiking, or his son's soccer team.
 
 - time: "2:00p - 2:30p"
-  type: Mini-Keynote
+  type: Keynote
   name: Cynthia Sturton
   title: "Bringing Symbolic Execution to the Security Verification of Hardware Designs"
   desc: |-
